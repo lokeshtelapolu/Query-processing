@@ -1,2 +1,2 @@
-# Query-processing-for-Data-Science-
+# Query processing
 DSA0511
